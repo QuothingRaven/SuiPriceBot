@@ -22,7 +22,7 @@ This Discord bot provides real-time price updates and statistics for the Sui cry
 ## Setup
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/sui-discord-bot.git
+   git clone https://github.com/QuothingRaven/sui-discord-bot.git
    cd sui-discord-bot
    ```
 
