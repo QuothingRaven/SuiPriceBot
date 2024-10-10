@@ -1,0 +1,4 @@
+discord.py==2.3.2
+httpx==0.25.2
+matplotlib==3.7.3
+python-dotenv==1.0.0
