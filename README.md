@@ -61,3 +61,6 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## Disclaimer
 This bot is for informational purposes only. Do not use it to make investment decisions. Always do your own research before investing in cryptocurrencies.
+
+## Credits
+This special shoutout goes to a three-headed dog who I would go to war with.
